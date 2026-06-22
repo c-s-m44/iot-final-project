@@ -53,10 +53,16 @@ export LINE_USER_ID=your_user_id_here
 sudo raspi-config
 ```
 
-2. 執行程式
+2. 執行主程式
 
 ```bash
 python main.py
+```
+
+3.（可選）測試硬體
+
+```bash
+python test_hardware.py
 ```
 
 ---
