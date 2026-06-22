@@ -34,6 +34,17 @@ pip install requests
 
 ---
 
+## Environment Variables
+
+請先設定以下環境變數：
+
+```bash
+export LINE_ACCESS_TOKEN=your_token_here
+export LINE_USER_ID=your_user_id_here
+```
+
+---
+
 ## How to Run
 
 1. 啟用 I2C
